@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# dotenv environment variables
+.env
+
+# production
+dist/
+
+# misc
+.DS_Store
+*.log
+
+# IDEs
+.vscode/
+.idea/
